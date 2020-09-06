@@ -107,6 +107,24 @@ projectFilesBackup
 /content/adapters/storage/**/*
 /content/adapters/scheduling/**/*
 !/content/themes/casper
+!/content/themes/attila
+!/content/themes/massively
+!/content/themes/editorial
+!/content/themes/saga
+!/content/themes/mapache
+!/content/themes/the-shell
+!/content/themes/argon
+!/content/themes/london
+!/content/themes/liebling
+!/content/themes/cusca
+!/content/themes/primates
+!/content/themes/fizzy
+!/content/themes/asgar
+!/content/themes/quangtt-starter
+!/content/themes/biron-ghost-theme
+!/content/themes/paway
+!/content/themes/boo
+!/core/client
 !/README.md
 !/content/**/README.md
 

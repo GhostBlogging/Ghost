@@ -1,6 +1,57 @@
 [submodule "content/themes/casper"]
 	path = content/themes/casper
-	url = ../../TryGhost/Casper.git
+	url = git@github.com:GhostBlogging/Casper.git
 [submodule "core/client"]
 	path = core/client
-	url = ../../TryGhost/Ghost-Admin.git
+	url = git@github.com:GhostBlogging/Ghost-Admin.git
+[submodule "content/themes/attila"]
+	path = content/themes/attila
+	url = git@github.com:GhostBlogging/attila.git
+[submodule "content/themes/massively"]
+	path = content/themes/massively
+	url = git@github.com:GhostBlogging/Massively.git
+[submodule "content/themes/editorial"]
+	path = content/themes/editorial
+	url = git@github.com:GhostBlogging/Editorial.git
+[submodule "content/themes/saga"]
+	path = content/themes/saga
+	url = git@github.com:GhostBlogging/Saga.git
+[submodule "content/themes/mapache"]
+	path = content/themes/mapache
+	url = git@github.com:GhostBlogging/Mapache.git
+[submodule "content/themes/the-shell"]
+	path = content/themes/the-shell
+	url = git@github.com:GhostBlogging/The-Shell.git
+[submodule "content/themes/argon"]
+	path = content/themes/argon
+	url = git@github.com:GhostBlogging/Argon.git
+[submodule "content/themes/london"]
+	path = content/themes/london
+	url = git@github.com:GhostBlogging/London.git
+[submodule "content/themes/liebling"]
+	path = content/themes/liebling
+	url = git@github.com:GhostBlogging/liebling.git
+[submodule "content/themes/cusca"]
+	path = content/themes/cusca
+	url = git@github.com:GhostBlogging/cusca.git
+[submodule "content/themes/primates"]
+	path = content/themes/primates
+	url = git@github.com:GhostBlogging/Primates-Ghost.git
+[submodule "content/themes/fizzy"]
+	path = content/themes/fizzy
+	url = git@github.com:GhostBlogging/Fizzy-Theme.git
+[submodule "content/themes/asgar"]
+	path = content/themes/asgar
+	url = git@github.com:GhostBlogging/Asgar.git
+[submodule "content/themes/quangtt-starter"]
+	path = content/themes/quangtt-starter
+	url = git@github.com:GhostBlogging/quangtt-starter.git
+[submodule "content/themes/biron-ghost-theme"]
+	path = content/themes/biron-ghost-theme
+	url = git@github.com:GhostBlogging/biron-ghost-theme.git
+[submodule "content/themes/paway"]
+	path = content/themes/paway
+	url = git@github.com:GhostBlogging/Paway.git
+[submodule "content/themes/boo"]
+	path = content/themes/boo
+	url = git@github.com:GhostBlogging/boo.git
